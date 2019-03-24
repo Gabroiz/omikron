@@ -1,0 +1,1 @@
+var fase2State = {};
